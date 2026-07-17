@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Nanum Myeongjo", "Playfair Display", Georgia, serif;
+  --font-sans: "Noto Sans KR", sans-serif;
+}
+
+/* Custom scroll behavior and overall smooth flow */
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background-color: #D97706;
+  color: white;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "빛소금 라이프",
+  "description": "1000°C의 초고온 용융 공정으로 미세플라스틱과 중금속을 완벽히 제거한 프리미엄 용융소금 브랜드, 빛소금 라이프의 공식 웰니스 랜딩 페이지입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
